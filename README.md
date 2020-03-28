@@ -1,3 +1,5 @@
+ # Opengl
+ # Computer-Graphics-Mini-Project
  # Client-server-architecture using opengl
 
 ### OBJECTIVES OF THE PROJECT :
