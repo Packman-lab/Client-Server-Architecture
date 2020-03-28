@@ -1,4 +1,4 @@
- # Opengl
+ # Opengl Computer Graphics Mini Project 6th Sem VTU
  # Computer-Graphics-Mini-Project
  # Client-server-architecture using opengl
 
