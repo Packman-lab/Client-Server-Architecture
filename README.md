@@ -23,3 +23,6 @@ Client 1 makes use of TCP to transmit data to the server. Similar to HTTP, the c
 Client 2 makes use of UDP to transmit data to the server. In this case, there is no need of handshaking. Instead, the data is directly pushed towards the server and vice versa. In UDP, there is no method to detect packet loss. In this case datagram packet transmission is shown using animating lines.  
 Client 3 and Client 4 demonstrate how data is transmitted among these 2 clients through the central server. First one client (say client 3) uploads some data to the server (that is not present in the server). If the same data is required by another client (say client 4), they download it from the server itself. 
 Notice that client to client data transmission is not possible without the influence of server.  
+
+
+you van even get more pre-done projects from this link : http://vtucs.com/computer-graphics-projects/
