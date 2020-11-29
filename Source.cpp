@@ -1,7 +1,7 @@
 //Date : 29 Nov 2021
 //Creator : Packman-lab
 //Lang : C++
-//Status : Beta
+//Status : Completed
 
 #include<GL/glut.h>
 #include<stdio.h>
