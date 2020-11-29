@@ -28,7 +28,7 @@ Notice that client to client data transmission is not possible without the influ
 
 ## Screenshot
 
-![image](https://raw.githubusercontent.com/Packman-lab/Client-Server-Architecture/blob/master/Client1-Download.PNG)
+![image](https://raw.githubusercontent.com/Packman-lab/Client-Server-Architecture/master/Client1-Download.PNG)
 
 ![image](https://raw.githubusercontent.com/Packman-lab/Password-Manager/master/Screenshots/Image_2.png)
 
