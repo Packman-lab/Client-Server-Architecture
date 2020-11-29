@@ -1,10 +1,5 @@
-For Any Questions Just Paste an issue in the issue tab in the github ... !!! 
-
-eg : How to run .. install the enviroment etc ..Thanks !! 
-
- # Opengl Computer Graphics Mini Project 6th Sem VTU
- # Computer-Graphics-Mini-Project
- # Client-server-architecture using opengl
+# Client Server Architecture
+C++ based tool to simulate the process of data sharing process between Client & Srever.
 
 ### OBJECTIVES OF THE PROJECT :
 
@@ -29,8 +24,16 @@ Client 2 makes use of UDP to transmit data to the server. In this case, there is
 
 Client 3 and Client 4 demonstrate how data is transmitted among these 2 clients through the central server. First one client (say client 3) uploads some data to the server (that is not present in the server). If the same data is required by another client (say client 4), they download it from the server itself. 
 
-Notice that client to client data transmission is not possible without the influence of server.  
+Notice that client to client data transmission is not possible without the influence of server.
 
+## Screenshot
 
-You can even get more pre-done projects from this link : http://vtucs.com/computer-graphics-projects/
+![image](https://raw.githubusercontent.com/Packman-lab/Client-Server-Architecture/blob/master/Client1-Download.PNG)
 
+![image](https://raw.githubusercontent.com/Packman-lab/Password-Manager/master/Screenshots/Image_2.png)
+
+![image](https://raw.githubusercontent.com/Packman-lab/Password-Manager/master/Screenshots/Image_3.png)
+
+![image](https://raw.githubusercontent.com/Packman-lab/Password-Manager/master/Screenshots/Image_4.png)
+
+![image](https://raw.githubusercontent.com/Packman-lab/Password-Manager/master/Screenshots/Image_5.png)
