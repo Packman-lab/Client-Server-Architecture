@@ -1,3 +1,8 @@
+//Date : 29 Nov 2021
+//Creator : Packman-lab
+//Lang : C++
+//Status : Beta
+
 #include<GL/glut.h>
 #include<stdio.h>
 #include<math.h>
@@ -19,18 +24,7 @@ void response();
 void downloading();
 void upload();
 
-
-
-/*void myReshape(int w, int h)
-{
-glViewport(0, 0, w, h);
-glMatrixMode(GL_PROJECTION);
-glLoadIdentity();
-glOrtho(-1.0, 1.0, -1.0, 1.0, -10.0, 10.0);
-glMatrixMode(GL_MODELVIEW);
-}*/
-
-void draw(float radius)            //used to create a circle shape like figure.
+void draw(float radius)           
 {
 	float delta_theta = 0.001;
 	glBegin(GL_POLYGON); // OR GL_LINE_LOOP
@@ -164,13 +158,7 @@ void line()     //this function is to design the system(monitor and CPU)
 	glVertex2f(93.0, 91.0);
 	glEnd();
 
-	/*glColor3f(1.0, 1.0, 1.0);
-	glPointSize(0.5);
-	glBegin(GL_POINTS);
-	glVertex2f(73.0, 66.0);
-	glVertex2f(73.0, 61.0);
-	glEnd();
-	*/
+	
 	glColor3f(1.0, 1.0, 1.0);
 	glPointSize(0.5);
 	glBegin(GL_POINTS);
@@ -202,12 +190,7 @@ void line()     //this function is to design the system(monitor and CPU)
 	glVertex2f(92.0, 70.0);
 	glVertex2f(108.0, 70.0);
 	glEnd();
-	/*glColor3f(0.0, 0.0, 0.0);
-	glPointSize(5.0);
-	glBegin(GL_POINTS);
-	glVertex2f(35.0, 22.0);
-	glEnd();
-	*/
+	
 	glColor3f(0.0, 0.0, 0.0);
 	glBegin(GL_POLYGON);
 	glVertex2f(97.5, 65.0);
@@ -228,17 +211,7 @@ void line()     //this function is to design the system(monitor and CPU)
 	glBegin(GL_POINTS);
 	glVertex2f(100.0, 48.0);
 	glEnd();
-	//glutSwapBuffers();
-	//glTranslatef(0.0, 225.0, 0.0);
-
-	/*	glColor3f(2.0, 0.2, 0.2);
-	glLineWidth(2.0);
-	glBegin(GL_LINES);
-	glVertex2f(31.0, 50.0);
-	glVertex2f(79.0, 50.0);
-	glEnd();
-	*/
-
+	
 
 }
 void server() // this function is to design the central server.
@@ -303,14 +276,7 @@ void server() // this function is to design the central server.
 	glVertex2f(186.0, 252.0);
 	glEnd();
 
-	/*glColor3f(0.20, 0.20, 0.20);
-	glBegin(GL_POLYGON);
-	glVertex2f(178.7, 106.0);
-	glVertex2f(221.3, 106.0);
-	glVertex2f(221.3, 274.0);
-	glVertex2f(178.7, 274.0);
-	glEnd();
-	*/
+	
 
 }
 void upload4() // used to display the bitmap characters.
