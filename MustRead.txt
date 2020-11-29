@@ -1,6 +1,6 @@
 Before you execute the code, first download and include the Glew and Glut header files. for Windows Platform
 For Linux this project is already ready to go.
 
-If you are not familiar with uploading Glew and glut files, then refer- https://www.youtube.com/watch?v=mpkOossgEQ0
+If you are not familiar with uploading Glew and glut files, a dedicated video will be uploaded soon
 
 
