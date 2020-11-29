@@ -1,7 +1,14 @@
 # Client Server Architecture
 C++ based tool to simulate the process of data sharing process between Client & Srever.
 
-### OBJECTIVES OF THE PROJECT :
+
+- [OBJECTIVES](#objectives)
+- [DESIGN](#design)
+- [HowToRun](#howToRun)
+- [Screenshots](#screenshots)
+
+
+### OBJECTIVES :
 
 •	To implement the concepts of computer graphics. 
 
@@ -26,7 +33,10 @@ Client 3 and Client 4 demonstrate how data is transmitted among these 2 clients 
 
 Notice that client to client data transmission is not possible without the influence of server.
 
-## Screenshot
+## HowToRun : 
+A dedicated video of demostration will be uploaded soon.
+
+## Screenshots :
 
 ![image](https://raw.githubusercontent.com/Packman-lab/Client-Server-Architecture/master/Client1-Download.PNG)
 
