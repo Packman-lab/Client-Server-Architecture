@@ -8,7 +8,7 @@ C++ based tool to simulate the process of data sharing process between Client & 
 - [Screenshots](#screenshots)
 
 
-### OBJECTIVES :
+### OBJECTIVES
 
 •	To implement the concepts of computer graphics. 
 
@@ -21,7 +21,7 @@ C++ based tool to simulate the process of data sharing process between Client & 
 •	Simulation of data transmission from one client to another using server as a centralized system. 
 
 
-### DESIGN :
+### DESIGN
 
 The entire project is itself designed in C++ using Visual Studio. The simulation is performed by considering 1 server in the center and 4 clients around it. The server is centralized i.e. all the communications among the clients has to be done through the server itself. 
 
@@ -33,10 +33,10 @@ Client 3 and Client 4 demonstrate how data is transmitted among these 2 clients 
 
 Notice that client to client data transmission is not possible without the influence of server.
 
-## HowToRun : 
+## HowToRun 
 A dedicated video of demostration will be uploaded soon.
 
-## Screenshots :
+## Screenshots
 
 ![image](https://raw.githubusercontent.com/Packman-lab/Client-Server-Architecture/master/Client1-Download.PNG)
 
