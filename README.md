@@ -30,10 +30,10 @@ Notice that client to client data transmission is not possible without the influ
 
 ![image](https://raw.githubusercontent.com/Packman-lab/Client-Server-Architecture/master/Client1-Download.PNG)
 
-![image](https://raw.githubusercontent.com/Packman-lab/Password-Manager/master/Screenshots/Image_2.png)
+![image](https://raw.githubusercontent.com/Packman-lab/Client-Server-Architecture/master/Client1-upload.PNG)
 
-![image](https://raw.githubusercontent.com/Packman-lab/Password-Manager/master/Screenshots/Image_3.png)
+![image](https://raw.githubusercontent.com/Packman-lab/Client-Server-Architecture/master/Design.PNG)
 
-![image](https://raw.githubusercontent.com/Packman-lab/Password-Manager/master/Screenshots/Image_4.png)
+![image](https://raw.githubusercontent.com/Packman-lab/Client-Server-Architecture/master/Final.PNG)
 
-![image](https://raw.githubusercontent.com/Packman-lab/Password-Manager/master/Screenshots/Image_5.png)
+![image](https://raw.githubusercontent.com/Packman-lab/Client-Server-Architecture/master/Handshake.PNG)
