@@ -34,7 +34,7 @@ Client 3 and Client 4 demonstrate how data is transmitted among these 2 clients 
 Notice that client to client data transmission is not possible without the influence of server.
 
 ## HowToRun 
-A dedicated video of demostration will be uploaded soon.
+https://www.youtube.com/watch?v=pmuPDaNg2-k.
 
 ## Screenshots
 
